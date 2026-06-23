@@ -142,8 +142,8 @@ Feel free to connect with me and explore my projects.
 ---
 
 ### "Code, Learn, Build, Repeat."
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehreenFatima-netixsol&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehreenFatima-netixsol&layout=compact)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
